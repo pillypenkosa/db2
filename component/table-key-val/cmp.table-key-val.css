@@ -1,0 +1,27 @@
+cmp-table-key-val {
+	display: block;
+	margin: 0 0 20px 0;
+} 
+	cmp-table-key-val td {
+		padding: 0 10px;
+		text-align: left;
+	} 
+		cmp-table-key-val td.txt-key {
+			/*font-style: oblique;*/
+			color: #999;
+		} 
+
+
+	cmp-table-key-val a {
+		text-decoration: none;
+		color: #ff0;
+	}
+/*
+	cmp-table-key-val .tr-separator {
+		background: linear-gradient( to top, #000, #009 );
+	}
+*/
+
+
+
+
